@@ -25,6 +25,4 @@ public class Part2 {
         System.out.println(totalSimilarityScore);
 
     }
-
-
 }
